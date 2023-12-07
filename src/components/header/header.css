@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li a{
+    padding: 0 20px;
+}
